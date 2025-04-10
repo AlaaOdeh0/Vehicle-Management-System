@@ -1,4 +1,4 @@
-🚗  Vehicle Management System
+## 🚗 Vehicle Management System
 
 This is a Java OOP (Object-Oriented Programming) project built using Eclipse. It manages different types of vehicles including Cars, Trucks, and Motorcycles.
 
@@ -8,7 +8,7 @@ The application demonstrates:
   * Console-based UI for managing vehicle records
 
 
-📁 Project Structure
+## 📁 Project Structure
 vehicles/
 ├── Car.java
 ├── Truck.java
@@ -21,7 +21,7 @@ vehicles/
 └── Main.java
 
 
-💻 Features
+## 💻 Features
   * Add, modify, delete vehicles
   * Search by:
     - Manufacture Company
@@ -33,14 +33,14 @@ vehicles/
   * Access and update body_serial_num from inherited classes
 
 
-🛠 Technologies
+## 🛠 Technologies
   Java 11+
   Eclipse IDE
   File I/O with serialization
   Java Date, Scanner, and ArrayList
 
 
-▶️ How to Run
+## ▶️ How to Run
   1. Open project in Eclipse
   2. Run Main.java
   3. Use the console menu:
@@ -53,7 +53,7 @@ vehicles/
       6. Exit and Save
 
 
-📂 Data Storage
+## 📂 Data Storage
   * Vehicle data is saved to files using Java serialization:
     - cars.dat
     - trucks.dat
