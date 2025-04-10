@@ -34,10 +34,10 @@ vehicles/
 
 
 ## 🛠 Technologies
-  Java 11+
-  Eclipse IDE
-  File I/O with serialization
-  Java Date, Scanner, and ArrayList
+  - Java 11+
+  - Eclipse IDE
+  - File I/O with serialization
+  - Java Date, Scanner, and ArrayList
 
 
 ## ▶️ How to Run
